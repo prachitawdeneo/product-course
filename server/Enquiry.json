@@ -1,0 +1,39 @@
+{
+  "enquires": [
+    {
+      "name": "dagffga",
+      "email": "prachi@gmail.com",
+      "mobile": "12345678901",
+      "enquiry": "aefsf",
+      "id": 1
+    },
+    {
+      "name": "adae",
+      "email": "p@gmail.com",
+      "mobile": "12334645765",
+      "enquiry": "sczdvf",
+      "id": 2
+    },
+    {
+      "name": "adae",
+      "email": "p@gmail.com",
+      "mobile": "12334645765",
+      "enquiry": "sczdvf",
+      "id": 3
+    },
+    {
+      "name": "Prachi Tawde",
+      "email": "prachi@gmail.com",
+      "mobile": "99882266778",
+      "enquiry": "I want to enroll for Java course.",
+      "id": 4
+    },
+    {
+      "name": "Prachi",
+      "email": "prachi@gmail.com",
+      "mobile": "97026618602",
+      "enquiry": "I want to apply for java course",
+      "id": 5
+    }
+  ]
+}

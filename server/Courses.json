@@ -1,0 +1,34 @@
+{
+    "courses":[
+        {
+            "id":1,
+            "cname":"Java",
+            "cfees":2345
+
+        },
+        {
+            "id":2,
+            "cname":"Python",
+            "cfees":2345
+
+        },
+        {
+            "id":3,
+            "cname":"Javascript",
+            "cfees":2345
+
+        },
+        {
+            "id":4,
+            "cname":"Dotnet",
+            "cfees":2345
+
+        },
+        {
+            "id":5,
+            "cname":"Andriod Development",
+            "cfees":2345
+
+        }
+    ]
+}
